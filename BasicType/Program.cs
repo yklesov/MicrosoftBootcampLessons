@@ -73,7 +73,7 @@ namespace BasicType
             Console.WriteLine("It's StringBuilder length" + " " + sb.Length);
             Console.WriteLine("It's StringBuilder capacity" + " " + sb.Capacity);
 
-            loremIpsum = loremIpsum.Replace(',',' ');
+            loremIpsum = loremIpsum.Replace(",",string.Empty);
             Console.WriteLine(loremIpsum);
         }
     }
