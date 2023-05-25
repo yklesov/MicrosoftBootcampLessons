@@ -237,7 +237,7 @@ namespace BasicType
                  a++;
              }*/
             
-            do
+           /* do
             {
                 do
                 {
@@ -297,7 +297,7 @@ namespace BasicType
                 Console.WriteLine();
                 b = 0;
                 a++;
-            } while (a < 3);
+            } while (a < 3);*/
         }
     }
 }
